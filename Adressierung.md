@@ -35,7 +35,7 @@
 - 113: LED 18 Neu (9)
 - 122: LED 19 Neu (9)
 - 131: LED 20 Neu (9) (Broken)
-- 140: LED 21 Neu (9)
+- 140: LED 21 Neu (9) (Halb Broken)
 - 149: LED 22 Neu (9)
 - 158: LED 23 Neu (9)
 
