@@ -2,18 +2,17 @@
 
 - 001: Nebelmaschine (1)
 - 002: Nebelmaschine (1)
-- 003-004: Leer
 
 # LED Alt
 
-- 005: LED 01 Alt Rot (5)
-- 010: LED 02 Alt Rot (5)
-- 015: LED 03 Alt Rot (5)
-- 020: LED 04 Alt Rot (5)
-- 025: LED 05 Alt Rot (5)
-- 030: LED 06 Alt Rot (5)
-- 035: LED 07 Alt Blau (5)
-- 040: LED 08 Alt Blau (5)
+- 003: LED 01 Alt Rot (5)
+- 008: LED 02 Alt Rot (5)
+- 013: LED 03 Alt Rot (5)
+- 018: LED 04 Alt Rot (5)
+- 023: LED 05 Alt Rot (5)
+- 028: LED 06 Alt Rot (5)
+- 033: LED 07 Alt Blau (6)
+- 039: LED 08 Alt Blau (6)
 
 # LED Mini
 
