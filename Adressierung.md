@@ -22,7 +22,7 @@
 - 061: LED 11 Mini (8)
 - 069: LED 12 Mini (8)
 - 077: LED 13 Mini (8)
-- 085: LED 14 Mini (8)
+- 085: LED 14 Mini (8) (Broken)
 - 093: LED 15 Mini (8)
 - 101: LED 16 Mini (8)
 
